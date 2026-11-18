@@ -1,50 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,SFMono-Regular,Menlo,monospace" width="1020px" height="420px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,SFMono-Regular,Menlo,monospace" width="1047px" height="483px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
 .key {fill: #953800;} .value {fill: #0a3069;} .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1020px" height="420px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="40">                             ...+%+:</tspan>
-<tspan x="15" y="60">==.                   .-+*%@@@@@@@%:</tspan>
-<tspan x="15" y="80"> #@#=.              -#@@@@@@@@@@##%:</tspan>
-<tspan x="15" y="100">  #@@@#+:         :%@@@@@@@@@@@@##@@-</tspan>
-<tspan x="15" y="120">   +@@@@@%+:     =@@@@@@@@@@@@@@@@@@@-</tspan>
-<tspan x="15" y="140">    .*@@@@@@%+:  +@@@@@@@@@+%@@@@@@@@@-</tspan>
-<tspan x="15" y="160">   .. .=%@@@@@@%*-:+%@@@@@@+ :==+#@@@@@-</tspan>
-<tspan x="15" y="180">   .#%*=::+%@@@@@@@*-:+%@@@@.     .-*@@*</tspan>
-<tspan x="15" y="200">    .*@@@@#++*%@@@@@@@*:=%@@*         .</tspan>
-<tspan x="15" y="220">      :+%@@@@@%%@@@@@@@@*.*@@+</tspan>
-<tspan x="15" y="240">       :.:=#@@@@@@@@@@@@@# #@@=</tspan>
-<tspan x="15" y="260">       -@%*=-=*@@@@@@@@@@@:+@@%</tspan>
-<tspan x="15" y="280">        :%@@@@%##%@@@@@@@@ *@@*</tspan>
-<tspan x="15" y="300">         .+%@@@@@@@@@@@@@=.@@%.</tspan>
-<tspan x="15" y="320">          :-=+#@@@@@@@@@*.#@%:</tspan>
-<tspan x="15" y="340">           *@@%#%%@@@@@+.#@+</tspan>
-<tspan x="15" y="360">            :*%@@@@@@%-:%+.</tspan>
-<tspan x="15" y="380">               .-+*%=.--</tspan>
+<rect width="1047px" height="483px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" font-size="10px" class="ascii">
+<tspan x="15" y="22.0"> 8b,                                               T&quot;,. -,</tspan>
+<tspan x="15" y="32.3">  00(Y                                               &#x27;8, ..</tspan>
+<tspan x="15" y="42.6"> , `000o,                                      &quot;&quot; oooob.&quot;T,.</tspan>
+<tspan x="15" y="52.9"> &quot;00o,`&quot;000o,                               ,- &quot;.)0,8.doob.&#x27;-.</tspan>
+<tspan x="15" y="63.2">   P0b(&quot;:-.&quot;P00o,800o,               ,.. &#x27;.&#x27;&#x27; -dP()d808Yo8.,.. ,</tspan>
+<tspan x="15" y="73.5">  oo, &quot;P00bo,   &quot;b P0000o;         -o8b-     ,..)do008.&#x27;.o,  Y8. ,</tspan>
+<tspan x="15" y="83.8">   &quot;008) -  `&quot;P0o,,   &quot;&quot;000bo     ,..bo.,.....)000888o&#x27; .o0.  &quot;.   -.</tspan>
+<tspan x="15" y="94.1">      &quot;P0000bo,,   &quot;&quot;b-,,   00b , &quot; &quot;d....88000008088o  .08o,.    ,,,b</tspan>
+<tspan x="15" y="104.4">     000&quot;:-- &quot;&quot;PP000bo,,  ` )0P,d00000&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;088888o.  .0880o.,.o888d</tspan>
+<tspan x="15" y="114.7">       &quot;0000000boo,,,,  &quot;&quot;`dP  &quot;&quot;8880b...,-- .o88088o.. .o&#x27;&quot;&quot;&quot;&quot;&quot;&quot;&quot;Y80P</tspan>
+<tspan x="15" y="125.0">      &quot;000bb------        dP   d8888.....,.. .o800888:. :.</tspan>
+<tspan x="15" y="135.3">        &quot;P0000000000PPPY 80   &quot;&quot; .d008bo &#x27;&#x27;,,,0880.08o. :.,</tspan>
+<tspan x="15" y="145.6">         &quot;0000(,,,ooo0o- 00b     ,dd8&quot;.  ,-)do808o:&quot;&quot;&quot;, :::</tspan>
+<tspan x="15" y="155.9">            `&quot;&quot;))` ,,--   00b    ,db(.  T)8P:8o:::::    :::</tspan>
+<tspan x="15" y="166.2">             `&quot;PP&quot;&quot; ,,o&quot;`,.`08   -&quot;&quot;, (;0&quot;Kd0o::        :::</tspan>
+<tspan x="15" y="176.5">               &quot;00P&quot;` ,d0`,        ,K,&#x27;&quot;.doo:::&#x27;        :o:</tspan>
+<tspan x="15" y="186.8">                   `&quot;P&quot;.dP P`       .doo:::&quot;&quot;&quot;::  :.    &#x27;o:</tspan>
+<tspan x="15" y="197.1">        ,..            .;ooooooo..o:&quot;&quot;&quot;&quot;&quot;     ::;. ::;.  &#x27;o.</tspan>
+<tspan x="15" y="207.4">   ,, &quot;&#x27;      ..   .d;o:&quot;&quot;&quot;&#x27;                  ::o:;::o::  :;</tspan>
+<tspan x="15" y="217.7">   d,         , ..ooo::;                      ::oo:;::o&quot;&#x27;.:o</tspan>
+<tspan x="15" y="228.0">  ,d&#x27;.       :0000080o::&quot; &#x27;.. .               ::o80oo:;  ;o:</tspan>
+<tspan x="15" y="238.3">  &#x27;P&quot;   ;  ;.0Pd888808::;. &#x27;o0oo:.;..         ;:0880oo:&#x27; 0&quot;&#x27;</tspan>
+<tspan x="15" y="248.6">  ,8:   o::o0  8888800o:::  o8080o:::;;     ,;:o08800o;  &#x27;</tspan>
+<tspan x="15" y="258.9"> ,YP  ,::;:0:  888888o::::  :88880oo::::::::::oo888888o;. ,</tspan>
+<tspan x="15" y="269.2"> &#x27;,d: :;;0;:   :888888::o;  :88888880oooooooooo888888880o; ,</tspan>
+<tspan x="15" y="279.5"> dPY:  :o80     Y088880:0:;  088888888880000888&quot;&quot; Y8o:088o; ,</tspan>
+<tspan x="15" y="289.8">,&#x27; 0:  &#x27;ob       &quot;88888880o;;o8888888888888&#x27;&quot;&#x27;      800:, 00b ,</tspan>
+<tspan x="15" y="300.1">&#x27;  Y:  ,:o:        808888800oo&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&#x27;            00ob Y8b</tspan>
+<tspan x="15" y="310.4">   ::  &#x27;;o:         8088o:o0oP                         80o  Y0,</tspan>
+<tspan x="15" y="320.7">   `:   0o:         `8880::oP                          880  :0Y</tspan>
+<tspan x="15" y="331.0">    :o; 8oP         :888o::P                           do:  80:</tspan>
+<tspan x="15" y="341.3">   ,oo0:80&#x27;       ,d8888o:0&#x27;                          d0o   ;:,</tspan>
+<tspan x="15" y="351.6">   ;08odo&#x27;        888880:o&#x27;                          do::  oo,:</tspan>
+<tspan x="15" y="361.9">  d&quot;`)80&#x27;         &quot;Y0880o&#x27;                          &quot;80;   o8b&#x27;</tspan>
+<tspan x="15" y="372.2"> &#x27;&#x27;-&#x27;`&quot;            d:08oK  -hrr-                   d00o&#x27;  ;o&quot;:</tspan>
+<tspan x="15" y="382.5">                   0:8o:b,                        ;88o:   `8;,</tspan>
+<tspan x="15" y="392.8">                   `80:;7b,,                       `&quot;8&#x27;     Y;</tspan>
+<tspan x="15" y="403.1">                    `Y0;`8b&#x27;</tspan>
+<tspan x="15" y="413.4">                     `0o; 8:,</tspan>
+<tspan x="15" y="423.7">                      `0P&quot;8,`</tspan>
+<tspan x="15" y="434.0">                       ;  Y8P</tspan>
+<tspan x="15" y="444.3">                       `o  `,</tspan>
+<tspan x="15" y="454.6">                        Y8bod,</tspan>
+<tspan x="15" y="464.9">                        `&quot;&quot;&quot;&quot;&#x27;</tspan>
 </text>
-<text x="440" y="30" fill="#24292f">
-<tspan x="440" y="30">lee@pegasus-fund -----------------------------------------</tspan>
-<tspan x="440" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>: <tspan class="cc">......................................... </tspan><tspan class="value">macOS, iOS</tspan></tspan>
-<tspan x="440" y="70"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="cc">............................ </tspan><tspan class="value">Nathan Research Group</tspan></tspan>
-<tspan x="440" y="90"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="cc">............................. </tspan><tspan class="value">AI Applied | Quant</tspan></tspan>
-<tspan x="440" y="110"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>: <tspan class="cc">............................... </tspan><tspan class="value">VSCode, Claude Code</tspan></tspan>
-<tspan x="440" y="130"><tspan class="cc">. </tspan></tspan>
-<tspan x="440" y="150"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>: <tspan class="cc">.......... </tspan><tspan class="value">Python, TypeScript, C#</tspan></tspan>
-<tspan x="440" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>: <tspan class="cc">......... </tspan><tspan class="value">HTML, CSS, JSON, SQL, YAML</tspan></tspan>
-<tspan x="440" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>: <tspan class="cc">........................ </tspan><tspan class="value">Korean, English</tspan></tspan>
-<tspan x="440" y="210"><tspan class="cc">. </tspan></tspan>
-<tspan x="440" y="230"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>: <tspan class="cc">......................... </tspan><tspan class="value">Workout, Coding, Math</tspan></tspan>
-<tspan x="440" y="250"><tspan class="cc">. </tspan></tspan>
-<tspan x="440" y="270">- Contact ------------------------------------------------</tspan>
-<tspan x="440" y="290"><tspan class="cc">. </tspan><tspan class="key">Email.Personal</tspan>: <tspan class="cc">................... </tspan><tspan class="value">forgeminie@gmail.com</tspan></tspan>
-<tspan x="440" y="310"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>: <tspan class="cc">..................................... </tspan><tspan class="value">Vipassana1</tspan></tspan>
-<tspan x="440" y="330"><tspan class="cc">. </tspan></tspan>
-<tspan x="440" y="350">- GitHub Stats -------------------------------------------</tspan>
-<tspan x="440" y="370"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="cc">.. </tspan><tspan class="value">8 {Contributed: 9}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="cc">................ </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="440" y="390"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="cc">............. </tspan><tspan class="value">7,267</tspan> | <tspan class="key">Followers</tspan>: <tspan class="cc">............ </tspan><tspan class="value">1</tspan></tspan>
+<text x="470" y="30" fill="#24292f">
+<tspan x="470" y="66">lee@pegasus-fund -----------------------------------------</tspan>
+<tspan x="470" y="86"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>: <tspan class="cc">......................................... </tspan><tspan class="value">macOS, iOS</tspan></tspan>
+<tspan x="470" y="106"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="cc">............................ </tspan><tspan class="value">Nathan Research Group</tspan></tspan>
+<tspan x="470" y="126"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="cc">............................. </tspan><tspan class="value">AI Applied | Quant</tspan></tspan>
+<tspan x="470" y="146"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>: <tspan class="cc">............................... </tspan><tspan class="value">VSCode, Claude Code</tspan></tspan>
+<tspan x="470" y="166"><tspan class="cc">. </tspan></tspan>
+<tspan x="470" y="186"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>: <tspan class="cc">.......... </tspan><tspan class="value">Python, TypeScript, C#</tspan></tspan>
+<tspan x="470" y="206"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>: <tspan class="cc">......... </tspan><tspan class="value">HTML, CSS, JSON, SQL, YAML</tspan></tspan>
+<tspan x="470" y="226"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>: <tspan class="cc">........................ </tspan><tspan class="value">Korean, English</tspan></tspan>
+<tspan x="470" y="246"><tspan class="cc">. </tspan></tspan>
+<tspan x="470" y="266"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>: <tspan class="cc">......................... </tspan><tspan class="value">Workout, Coding, Math</tspan></tspan>
+<tspan x="470" y="286"><tspan class="cc">. </tspan></tspan>
+<tspan x="470" y="306">- Contact ------------------------------------------------</tspan>
+<tspan x="470" y="326"><tspan class="cc">. </tspan><tspan class="key">Email.Personal</tspan>: <tspan class="cc">................... </tspan><tspan class="value">forgeminie@gmail.com</tspan></tspan>
+<tspan x="470" y="346"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>: <tspan class="cc">..................................... </tspan><tspan class="value">Vipassana1</tspan></tspan>
+<tspan x="470" y="366"><tspan class="cc">. </tspan></tspan>
+<tspan x="470" y="386">- GitHub Stats -------------------------------------------</tspan>
+<tspan x="470" y="406"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="cc">.. </tspan><tspan class="value">8 {Contributed: 9}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="cc">................ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="470" y="426"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="cc">............. </tspan><tspan class="value">7,267</tspan> | <tspan class="key">Followers</tspan>: <tspan class="cc">............ </tspan><tspan class="value">1</tspan></tspan>
 </text>
 </svg>
