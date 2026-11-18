@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,SFMono-Regular,Menlo,monospace" width="1050px" height="600px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,SFMono-Regular,Menlo,monospace" width="1145px" height="600px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
 .key {fill: #953800;} .value {fill: #0a3069;} .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1050px" height="600px" fill="#f6f8fa" rx="15"/>
+<rect width="1145px" height="600px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">                I_1|};_//{&lt;,</tspan>
-<tspan x="15" y="50">             }JoB$$$$%$$$$$&amp;pr&gt;</tspan>
-<tspan x="15" y="70">           }k$$$$$$$$$$$$@$$$$@b}</tspan>
-<tspan x="15" y="90">          Q$@BB%@$$$$$$$$$$$B8@$$x</tspan>
-<tspan x="15" y="110">         j$&amp;%8&amp;8$$@@$$$@@@$$$@$@@$]</tspan>
-<tspan x="15" y="130">         b$&amp;8%B@@88888%%%B@@$$$$@$x</tspan>
-<tspan x="15" y="150">         Q@&amp;88888W8@BB%@$$@@$$$$@$)</tspan>
-<tspan x="15" y="170">         {$8B@@$$8Qh@$Bmq8$$$$$$$@I</tspan>
-<tspan x="15" y="190">          h$bkkbamzYQvYxrXUYw**M$q</tspan>
-<tspan x="15" y="210">          +wj&quot;-|{Y/~; :1--uzXCxv@0</tspan>
-<tspan x="15" y="230">           +1       &quot; ;(&lt; ;!+]{fh~</tspan>
-<tspan x="15" y="250">            ;&quot;     ;i:!jfi  &quot;&gt;}fz</tspan>
-<tspan x="15" y="270">            &quot;;&quot;    :~~[t|-I:!]/x-</tspan>
-<tspan x="15" y="290">             II&quot;&quot;&quot;l&gt;&gt;&lt;_)t|-i_)u&lt;</tspan>
-<tspan x="15" y="310">              !I&quot;,!])1/cUt_~1x?</tspan>
-<tspan x="15" y="330">              !?+!,&quot;,!+??[)jUx&quot;</tspan>
-<tspan x="15" y="350">            rX,{-[[-_-]1tuzCU~m1</tspan>
-<tspan x="15" y="370">          +0$] I_&lt;~-}|jxrrnt; 0$q|!</tspan>
-<tspan x="15" y="390">     :-rO#$$$]   liili+[11&lt;   p$$$$oL/&lt;</tspan>
-<tspan x="15" y="410">:_jQa%$$$$$@$c     I&lt;&gt;+]~    I8$@@$$$$$&amp;pX)&lt;</tspan>
-<tspan x="15" y="430">B$$$$$$@$$$$$*       tc:     1$$$$$$@@$$$$$$</tspan>
-<tspan x="15" y="450">$$@@$$$$$$$$$$[    /pM&amp;#L&lt;   0$@$$$$$$$$$@$$</tspan>
-<tspan x="15" y="470">$$$$$$$$$$$$$$q   ~xh#880}  lB$$$$$$$$$$$$$$</tspan>
-<tspan x="15" y="490">$$$$$$$$$$$$$$@l    j$@p    r$@$$$$$$$$$$$$$</tspan>
-<tspan x="15" y="510">$$$$$$$$$$$$$@$n    k%&amp;$t   k$$$$$$$$$$$$$$$</tspan>
-<tspan x="15" y="530">$$$$$$$$$$$$$$$o   ]BM#%p  _$$$$$$$$$$$$$$$$</tspan>
-<tspan x="15" y="550">$$$$$$$$$$$$$$$$?  v8*MM#! O$@$$$$$$$$$$$$$$</tspan>
-<tspan x="15" y="570">$$$$$$$$$$$$$$@$O  Q&amp;oMM8&lt; B$$$$$$$$$$$$$$$$</tspan>
+<tspan x="15" y="30">                            /nJp@mQbwO&amp;CLaz |rcYOO</tspan>
+<tspan x="15" y="50">                     trnzCZdaaabqhkpd*aa$%QYYJLwdw|</tspan>
+<tspan x="15" y="70">     fOvvCjQYtjrf (QqCbWo*MohhOboapdahhbpZQLmwh*Mh/</tspan>
+<tspan x="15" y="90">     x@h**k$8%Qh#b%madhU$dOwbCZ8k#aUUL00ZmmmC0mLn</tspan>
+<tspan x="15" y="110">   fnuO#QdabbWdbwo$Cw&amp;h$mJhCoUQZqpqOQZ0YcXwhdX|</tspan>
+<tspan x="15" y="130">XmmXYu(x8*vt//odfvO#oq$C UWYOC0M$mLJYCJJYJ0dM/</tspan>
+<tspan x="15" y="150">mW$BdmZuv|ttYL(anxJ@WkLfYYp#dUO0oqC0ZOZLOwQc(</tspan>
+<tspan x="15" y="170">(ZhmYUJYw*CJaX)OOxvU$8 XmqO#OQq@pQ0JQUXQmdj</tspan>
+<tspan x="15" y="190">        x%(jCf|vdzLZ%$t/cvX#Lcb$Z00Odaawn)  (YLmw0c( /</tspan>
+<tspan x="15" y="210">        aX|rx/vvdYYjc$q(YhadQ$*pmpmLJLOw   X&amp;#wqwmpmWh</tspan>
+<tspan x="15" y="230">       v#(tCUQ$crm&amp;LZpMzO$MJ$dQ0ZdpmCn/   (Wpwkjcc0h%J</tspan>
+<tspan x="15" y="250">       Lw|/LCupwOhkwhbC/xBh&amp;p0m0XXLQ*aUQUu|zWkLttj|Oh8</tspan>
+<tspan x="15" y="270">       zd)fvp(xpkhad0vjfvZ08OqmLJCn0M|tjnzw0CM0)wpYx$@</tspan>
+<tspan x="15" y="290">       (Wvt|uCJwwhdxvJ#j0hmvdmQOCxhaJtjft|zo*bLxodUc&amp;a</tspan>
+<tspan x="15" y="310">        O#tXp0/|jdaCaYwYOCmXx$WvCWbX(jfffj|Om$pbBC|nkm</tspan>
+<tspan x="15" y="330">      |jZ%r%$vjjf/x|YZLoO8bhupJUh&amp;mZ|fffffjOkmJkrfUho</tspan>
+<tspan x="15" y="350">  jcXUJYX#Op$#(/ftqozXcXYvnxUwwdpwQ$&amp;//jffrXhZh(|O*wpf</tspan>
+<tspan x="15" y="370"> ZOcOCCmw#$$$WhLj)b$abbhadbwLYvfO$o#$$c)tjtjaLkY|Q8WMC</tspan>
+<tspan x="15" y="390"> qUCZfftt|(  /k%Oh&amp;$QYXnf|      p$kQq$$kx|/fbd%U CbOhf</tspan>
+<tspan x="15" y="410"> zpJm         Cq(r*J          ) O$LCzL$CqmXt/0whUXZQbd</tspan>
+<tspan x="15" y="430"> ra/W(        pO Ua )           ($bL0O$z xQkL 0BUp0Z$C</tspan>
+<tspan x="15" y="450"> (8|dU        hCvWt              f%nmX%b   (#XX$ (MY&amp;(</tspan>
+<tspan x="15" y="470">  v#XdC       oY@Y               mZ vdY   ) Uqt# vWqt</tspan>
+<tspan x="15" y="490">   r#dBj     nwvh               mY Zqt      zdr* pa</tspan>
+<tspan x="15" y="510">    )XL(     du#f             |bvjaL        cdua )(</tspan>
+<tspan x="15" y="530">           )OCaL             cMnz#x         mCQk</tspan>
+<tspan x="15" y="550">         rL#wpd           tYb*oZ&amp;/       fJmaQwj</tspan>
+<tspan x="15" y="570">       toaZMCx          |b*m&amp;mUc       |h*Z%mt</tspan>
 </text>
-<text x="465" y="30" fill="#24292f">
-<tspan x="465" y="110">lee@pegasus-fund -----------------------------------------</tspan>
-<tspan x="465" y="130"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>: <tspan class="cc">......................................... </tspan><tspan class="value">macOS, iOS</tspan></tspan>
-<tspan x="465" y="150"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="cc">............................ </tspan><tspan class="value">Nathan Research Group</tspan></tspan>
-<tspan x="465" y="170"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="cc">............................. </tspan><tspan class="value">AI Applied | Quant</tspan></tspan>
-<tspan x="465" y="190"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>: <tspan class="cc">............................... </tspan><tspan class="value">VSCode, Claude Code</tspan></tspan>
-<tspan x="465" y="210"><tspan class="cc">. </tspan></tspan>
-<tspan x="465" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>: <tspan class="cc">.......... </tspan><tspan class="value">Python, TypeScript, C#</tspan></tspan>
-<tspan x="465" y="250"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>: <tspan class="cc">......... </tspan><tspan class="value">HTML, CSS, JSON, SQL, YAML</tspan></tspan>
-<tspan x="465" y="270"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>: <tspan class="cc">........................ </tspan><tspan class="value">Korean, English</tspan></tspan>
-<tspan x="465" y="290"><tspan class="cc">. </tspan></tspan>
-<tspan x="465" y="310"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>: <tspan class="cc">......................... </tspan><tspan class="value">Workout, Coding, Math</tspan></tspan>
-<tspan x="465" y="330"><tspan class="cc">. </tspan></tspan>
-<tspan x="465" y="350">- Contact ------------------------------------------------</tspan>
-<tspan x="465" y="370"><tspan class="cc">. </tspan><tspan class="key">Email.Personal</tspan>: <tspan class="cc">................... </tspan><tspan class="value">forgeminie@gmail.com</tspan></tspan>
-<tspan x="465" y="390"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>: <tspan class="cc">..................................... </tspan><tspan class="value">Vipassana1</tspan></tspan>
-<tspan x="465" y="410"><tspan class="cc">. </tspan></tspan>
-<tspan x="465" y="430">- GitHub Stats -------------------------------------------</tspan>
-<tspan x="465" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="cc">.. </tspan><tspan class="value">8 {Contributed: 9}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="cc">................ </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="465" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="cc">............. </tspan><tspan class="value">7,267</tspan> | <tspan class="key">Followers</tspan>: <tspan class="cc">............ </tspan><tspan class="value">1</tspan></tspan>
+<text x="565" y="30" fill="#24292f">
+<tspan x="565" y="110">lee@pegasus-fund -----------------------------------------</tspan>
+<tspan x="565" y="130"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>: <tspan class="cc">......................................... </tspan><tspan class="value">macOS, iOS</tspan></tspan>
+<tspan x="565" y="150"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="cc">............................ </tspan><tspan class="value">Nathan Research Group</tspan></tspan>
+<tspan x="565" y="170"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="cc">............................. </tspan><tspan class="value">AI Applied | Quant</tspan></tspan>
+<tspan x="565" y="190"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>: <tspan class="cc">............................... </tspan><tspan class="value">VSCode, Claude Code</tspan></tspan>
+<tspan x="565" y="210"><tspan class="cc">. </tspan></tspan>
+<tspan x="565" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>: <tspan class="cc">.......... </tspan><tspan class="value">Python, TypeScript, C#</tspan></tspan>
+<tspan x="565" y="250"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>: <tspan class="cc">......... </tspan><tspan class="value">HTML, CSS, JSON, SQL, YAML</tspan></tspan>
+<tspan x="565" y="270"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>: <tspan class="cc">........................ </tspan><tspan class="value">Korean, English</tspan></tspan>
+<tspan x="565" y="290"><tspan class="cc">. </tspan></tspan>
+<tspan x="565" y="310"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>: <tspan class="cc">......................... </tspan><tspan class="value">Workout, Coding, Math</tspan></tspan>
+<tspan x="565" y="330"><tspan class="cc">. </tspan></tspan>
+<tspan x="565" y="350">- Contact ------------------------------------------------</tspan>
+<tspan x="565" y="370"><tspan class="cc">. </tspan><tspan class="key">Email.Personal</tspan>: <tspan class="cc">................... </tspan><tspan class="value">forgeminie@gmail.com</tspan></tspan>
+<tspan x="565" y="390"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>: <tspan class="cc">..................................... </tspan><tspan class="value">Vipassana1</tspan></tspan>
+<tspan x="565" y="410"><tspan class="cc">. </tspan></tspan>
+<tspan x="565" y="430">- GitHub Stats -------------------------------------------</tspan>
+<tspan x="565" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="cc">.. </tspan><tspan class="value">8 {Contributed: 9}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="cc">................ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="565" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="cc">............. </tspan><tspan class="value">7,267</tspan> | <tspan class="key">Followers</tspan>: <tspan class="cc">............ </tspan><tspan class="value">1</tspan></tspan>
 </text>
 </svg>
